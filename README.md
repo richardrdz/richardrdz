@@ -5,7 +5,7 @@
 
 
 
-I'm Richard Rodriguez, a full-time swift developer 👨‍💻 🚀  
+I'm Richard Rodriguez, a full-time swift developer 👨‍💻  
   
 
 <br/>  
