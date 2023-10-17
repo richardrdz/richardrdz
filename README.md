@@ -31,19 +31,4 @@ I'm Richard Rodriguez, a full-time swift developer 👨‍💻 🚀
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=richardrdz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
- 
-
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=richardrdz&&style=flat-square" align="center" />
-</div>  
   
